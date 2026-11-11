@@ -71,6 +71,16 @@ export const listings: Listing[] = [
       "A tailored inventory and ordering application built around your workflow. " +
       "Book a live demo to see a working example.",
     inquiry_type: "DEMO",
-    image_url: "/images/placeholder-custom-software.svg",
+    image_url: "/images/hos_don_quixote.jpg",
+  },
+    {
+    slug: "inventory-management-app",
+    title: "Custom Inventory Management App",
+    category: "CUSTOM_SOFTWARE",
+    description:
+      "A tailored inventory and ordering application built around your workflow. " +
+      "Book a live demo to see a working example.",
+    inquiry_type: "DEMO",
+    image_url: "/images/hos_don_quixote.jpg",
   },
 ];
