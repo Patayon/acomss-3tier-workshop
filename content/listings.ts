@@ -65,32 +65,32 @@ export const listings: Listing[] = [
   },
   {
     slug: "inventory-management-app",
-    title: "Index Don Quixote",
+    title: "Davao",
     category: "CUSTOM_SOFTWARE",
     description:
       "A tailored inventory and ordering application built around your workflow. " +
       "Book a live demo to see a working example.",
     inquiry_type: "DEMO",
-    image_url: "/images/hos_don_quixote.jpg",
+    image_url: "/images/2ndbackground.jpg",
   },
     {
     slug: "inventory-management-app",
-    title: "Walpurgisnacht Mersault",
+    title: "inventory-management-app",
     category: "CUSTOM_SOFTWARE",
     description:
       "A tailored inventory and ordering application built around your workflow. " +
       "Book a live demo to see a working example.",
     inquiry_type: "DEMO",
-    image_url: "/images/hos_mersault.jpg",
+    image_url: "/images/boholPic1.jpg",
   },
     {
     slug: "inventory-management-app",
-    title: "Pinky Ryoshu",
+    title: "Davao",
     category: "CUSTOM_SOFTWARE",
     description:
       "A tailored inventory and ordering application built around your workflow. " +
       "Book a live demo to see a working example.",
     inquiry_type: "DEMO",
-    image_url: "/images/hos_ryoshu.jpg",
+    image_url: "/images/davaoPic1.jpg",
   },
 ];
